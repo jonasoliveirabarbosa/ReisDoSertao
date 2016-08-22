@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: c8bc3bb34ae4c03459b58bab8f346bac
+timeCreated: 1462995527
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ferroAtirar_0
+    21300002: ferroAtirar_1
+    21300004: ferroAtirar_2
+    21300006: ferroAtirar_3
+    21300008: ferroAtirar_4
+    21300010: ferroAtirar_5
+    21300012: ferroAtirar_6
+    21300014: ferroAtirar_7
+    21300016: ferroAtirar_8
+    21300018: ferroAtirar_9
+    21300020: ferroAtirar_10
+    21300022: ferroAtirar_11
+    21300024: ferroAtirar_12
+    21300026: ferroAtirar_13
+    21300028: ferroAtirar_14
+    21300030: ferroAtirar_15
+    21300032: ferroAtirar_16
+    21300034: ferroAtirar_17
+    21300036: ferroAtirar_18
+    21300038: ferroAtirar_19
+    21300040: ferroAtirar_20
+    21300042: ferroAtirar_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ferroAtirar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 33, y: -109}
+        - {x: 96, y: 49}
+        - {x: 96, y: 87}
+        - {x: 46, y: 108}
+        - {x: 27, y: 114}
+        - {x: -10, y: 114}
+        - {x: -24, y: 99}
+        - {x: -24, y: -105}
+        - {x: -16, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 912
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 33, y: -109}
+        - {x: 94, y: 60}
+        - {x: 94, y: 87}
+        - {x: 40, y: 114}
+        - {x: -24, y: 114}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 912
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 30, y: -107}
+        - {x: 29, y: -95}
+        - {x: 90, y: 7}
+        - {x: 90, y: 114}
+        - {x: -24, y: 114}
+        - {x: -24, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 912
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 34, y: -110}
+        - {x: 88, y: 87}
+        - {x: 88, y: 95}
+        - {x: 86, y: 99}
+        - {x: 55, y: 114}
+        - {x: -24, y: 114}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 912
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 34, y: -110}
+        - {x: 89, y: 43}
+        - {x: 89, y: 99}
+        - {x: 87, y: 100}
+        - {x: 49, y: 79}
+        - {x: 39, y: 99}
+        - {x: 19, y: 114}
+        - {x: -14, y: 114}
+        - {x: -24, y: 96}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 684
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 30, y: -107}
+        - {x: 29, y: -95}
+        - {x: 90, y: 71}
+        - {x: 90, y: 95}
+        - {x: 87, y: 96}
+        - {x: 59, y: 85}
+        - {x: 37, y: 114}
+        - {x: -10, y: 114}
+        - {x: -24, y: 100}
+        - {x: -24, y: -99}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 684
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 30, y: -107}
+        - {x: 29, y: -95}
+        - {x: 91, y: 56}
+        - {x: 91, y: 96}
+        - {x: 84, y: 98}
+        - {x: 22, y: 114}
+        - {x: -10, y: 114}
+        - {x: -24, y: 100}
+        - {x: -24, y: -99}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_7
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 684
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 33, y: -109}
+        - {x: 92, y: 4}
+        - {x: 92, y: 114}
+        - {x: -24, y: 114}
+        - {x: -24, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_8
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 684
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 34, y: -110}
+        - {x: 92, y: 76}
+        - {x: 92, y: 87}
+        - {x: 86, y: 90}
+        - {x: 62, y: 81}
+        - {x: 20, y: 114}
+        - {x: -10, y: 114}
+        - {x: -24, y: 99}
+        - {x: -24, y: -99}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_9
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 684
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 34, y: -110}
+        - {x: 93, y: 43}
+        - {x: 93, y: 85}
+        - {x: 91, y: 86}
+        - {x: 88, y: 86}
+        - {x: 63, y: 80}
+        - {x: 20, y: 114}
+        - {x: -10, y: 114}
+        - {x: -24, y: 99}
+        - {x: -24, y: -99}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 25, y: -114}
+        - {x: 55, y: -114}
+        - {x: 94, y: 54}
+        - {x: 94, y: 114}
+        - {x: -24, y: 114}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 34, y: -110}
+        - {x: 94, y: 41}
+        - {x: 94, y: 84}
+        - {x: 72, y: 102}
+        - {x: 39, y: 114}
+        - {x: -20, y: 114}
+        - {x: -24, y: 110}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 456
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 30, y: -107}
+        - {x: 95, y: -24}
+        - {x: 95, y: 114}
+        - {x: -18, y: 114}
+        - {x: -24, y: 109}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 456
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 34, y: -110}
+        - {x: 95, y: 59}
+        - {x: 95, y: 88}
+        - {x: 40, y: 114}
+        - {x: -23, y: 114}
+        - {x: -24, y: 113}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 456
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 33, y: -109}
+        - {x: 95, y: 21}
+        - {x: 95, y: 97}
+        - {x: 56, y: 114}
+        - {x: -12, y: 114}
+        - {x: -24, y: 106}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 34, y: -110}
+        - {x: 96, y: 45}
+        - {x: 96, y: 104}
+        - {x: 64, y: 114}
+        - {x: -24, y: 114}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_16
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 228
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 33, y: -109}
+        - {x: 96, y: -4}
+        - {x: 96, y: 105}
+        - {x: 87, y: 114}
+        - {x: -14, y: 114}
+        - {x: -24, y: 106}
+        - {x: -24, y: -97}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 228
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 30, y: -107}
+        - {x: 29, y: -95}
+        - {x: 96, y: 60}
+        - {x: 96, y: 82}
+        - {x: 44, y: 114}
+        - {x: -10, y: 114}
+        - {x: -24, y: 100}
+        - {x: -24, y: -99}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 228
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 33, y: -109}
+        - {x: 96, y: 24}
+        - {x: 96, y: 91}
+        - {x: 24, y: 114}
+        - {x: -10, y: 114}
+        - {x: -24, y: 99}
+        - {x: -24, y: -99}
+        - {x: -14, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 228
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 33, y: -109}
+        - {x: 96, y: 47}
+        - {x: 96, y: 93}
+        - {x: 93, y: 97}
+        - {x: 45, y: 114}
+        - {x: -24, y: 114}
+        - {x: -24, y: -112}
+        - {x: -21, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 30, y: -107}
+        - {x: 96, y: 49}
+        - {x: 96, y: 97}
+        - {x: 31, y: 114}
+        - {x: -20, y: 114}
+        - {x: -24, y: 103}
+        - {x: -24, y: -105}
+        - {x: -16, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    - name: ferroAtirar_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 228
+      alignment: 9
+      pivot: {x: 0.2, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -93}
+        - {x: 17, y: -110}
+        - {x: 26, y: -114}
+        - {x: 64, y: -114}
+        - {x: 96, y: 56}
+        - {x: 96, y: 114}
+        - {x: -22, y: 114}
+        - {x: -24, y: 106}
+        - {x: -24, y: -105}
+        - {x: -16, y: -114}
+        - {x: 11, y: -114}
+        - {x: 8, y: -100}
+        - {x: -1, y: -89}
+        - {x: 0, y: -80}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

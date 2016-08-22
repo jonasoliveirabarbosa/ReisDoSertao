@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: e6a967279a9f42945b7b875e444a4d73
+timeCreated: 1462995405
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ferro_entity_000_morrer_0
+    21300002: ferro_entity_000_morrer_1
+    21300004: ferro_entity_000_morrer_2
+    21300006: ferro_entity_000_morrer_3
+    21300008: ferro_entity_000_morrer_4
+    21300010: ferro_entity_000_morrer_5
+    21300012: ferro_entity_000_morrer_6
+    21300014: ferro_entity_000_morrer_7
+    21300016: ferro_entity_000_morrer_8
+    21300018: ferro_entity_000_morrer_9
+    21300020: ferro_entity_000_morrer_10
+    21300022: ferro_entity_000_morrer_11
+    21300024: ferro_entity_000_morrer_12
+    21300026: ferro_entity_000_morrer_13
+    21300028: ferro_entity_000_morrer_14
+    21300030: ferro_entity_000_morrer_15
+    21300032: ferro_entity_000_morrer_16
+    21300034: ferro_entity_000_morrer_17
+    21300036: ferro_entity_000_morrer_18
+    21300038: ferro_entity_000_morrer_19
+    21300040: ferro_entity_000_morrer_20
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ferro_entity_000_morrer_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.149628, y: 118}
+        - {x: -30.149628, y: 103}
+        - {x: -30.149628, y: -94}
+        - {x: -16.149628, y: -114}
+        - {x: 43.850372, y: -114}
+        - {x: 43.850372, y: 109}
+        - {x: 21.850372, y: 118}
+    - name: ferro_entity_000_morrer_1
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 968
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.8503723, y: -54}
+        - {x: 5.8503723, y: -47}
+        - {x: 6.8503723, y: -46}
+        - {x: 5.8503723, y: -48}
+        - {x: 5.8503723, y: -58}
+        - {x: 4.8503723, y: -60}
+        - {x: 2.8503723, y: -89}
+        - {x: 17.850372, y: -106}
+        - {x: 25.850372, y: -106}
+        - {x: 30.850372, y: -100}
+        - {x: 29.850372, y: -94}
+        - {x: 43.850372, y: -20}
+        - {x: 24.850372, y: -5}
+        - {x: 23.850372, y: 6}
+        - {x: 22.850372, y: 12}
+        - {x: 27.850372, y: 1}
+        - {x: 39.850372, y: -7}
+        - {x: 44.850372, y: 0}
+        - {x: 44.850372, y: 19}
+        - {x: 25.850372, y: 107}
+        - {x: 3.8503723, y: 117}
+        - {x: -23.149628, y: 117}
+        - {x: -36.149628, y: 107}
+        - {x: -36.149628, y: -8}
+        - {x: -24.149628, y: -98}
+        - {x: -7.1496277, y: -117}
+        - {x: 6.8503723, y: -117}
+        - {x: 11.850372, y: -114}
+        - {x: 10.850372, y: -104}
+        - {x: 2.8503723, y: -88}
+        - {x: 4.8503723, y: -58}
+    - name: ferro_entity_000_morrer_2
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 968
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.850342, y: -60}
+        - {x: 6.850342, y: -52}
+        - {x: 5.850342, y: -58}
+        - {x: 5.850342, y: -75}
+        - {x: 3.8503418, y: -78}
+        - {x: 3.8503418, y: -84}
+        - {x: 15.850342, y: -101}
+        - {x: 22.850342, y: -103}
+        - {x: 54.85034, y: -86}
+        - {x: 54.85034, y: 115}
+        - {x: -41.14966, y: 115}
+        - {x: -51.14966, y: 107}
+        - {x: -51.14966, y: 34}
+        - {x: -19.149658, y: -97}
+        - {x: -15.149658, y: -113}
+        - {x: -4.149658, y: -117}
+        - {x: 8.850342, y: -117}
+        - {x: 11.850342, y: -109}
+        - {x: 9.850342, y: -101}
+        - {x: 1.8503418, y: -91}
+    - name: ferro_entity_000_morrer_3
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 968
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.14966, y: 113}
+        - {x: -66.14966, y: 111}
+        - {x: -66.14966, y: 6}
+        - {x: -15.149658, y: -112}
+        - {x: -9.149658, y: -115}
+        - {x: 38.85034, y: -115}
+        - {x: 54.85034, y: -109}
+        - {x: 54.85034, y: 67}
+        - {x: 42.85034, y: 113}
+    - name: ferro_entity_000_morrer_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 968
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.850342, y: -62}
+        - {x: 4.850342, y: -73}
+        - {x: 4.850342, y: -76}
+        - {x: 7.850342, y: -82}
+        - {x: 13.850342, y: -93}
+        - {x: 31.850342, y: -108}
+        - {x: 50.85034, y: 35}
+        - {x: 50.85034, y: 54}
+        - {x: -7.149658, y: 96}
+        - {x: -24.149658, y: 107}
+        - {x: -79.14966, y: 107}
+        - {x: -79.14966, y: -12}
+        - {x: -37.14966, y: -117}
+        - {x: 5.850342, y: -117}
+        - {x: 10.850342, y: -114}
+        - {x: 9.850342, y: -103}
+        - {x: 4.850342, y: -82}
+        - {x: 4.850342, y: -75}
+    - name: ferro_entity_000_morrer_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -86.14963, y: 102}
+        - {x: -91.14963, y: 89}
+        - {x: -91.14963, y: 32}
+        - {x: -18.149628, y: -117}
+        - {x: 39.850372, y: -117}
+        - {x: 39.850372, y: 102}
+    - name: ferro_entity_000_morrer_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 726
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.8503723, y: 15}
+        - {x: 26.850372, y: 67}
+        - {x: 28.850372, y: 76}
+        - {x: 24.850372, y: 81}
+        - {x: 13.850372, y: 96}
+        - {x: -103.14963, y: 96}
+        - {x: -103.14963, y: -13}
+        - {x: -28.149628, y: -100}
+        - {x: -6.1496277, y: -116}
+        - {x: 26.850372, y: -116}
+        - {x: 34.850372, y: -106}
+        - {x: 34.850372, y: -47}
+        - {x: 26.850372, y: -22}
+    - name: ferro_entity_000_morrer_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 726
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.149658, y: -24}
+        - {x: 2.8503418, y: -34}
+        - {x: 6.850342, y: -51}
+        - {x: 9.850342, y: -59}
+        - {x: 10.850342, y: -71}
+        - {x: 26.850342, y: -88}
+        - {x: 40.85034, y: -84}
+        - {x: 40.85034, y: -64}
+        - {x: 22.850342, y: -19}
+        - {x: 21.850342, y: 104}
+        - {x: -52.14966, y: 104}
+        - {x: -112.14966, y: 88}
+        - {x: -119.14966, y: 69}
+        - {x: -119.14966, y: 42}
+        - {x: -108.14966, y: 34}
+        - {x: -105.14966, y: 35}
+        - {x: -93.14966, y: 13}
+        - {x: -17.149658, y: -99}
+        - {x: -8.149658, y: -111}
+        - {x: -4.149658, y: -117}
+        - {x: 13.850342, y: -117}
+        - {x: 17.850342, y: -116}
+        - {x: 7.850342, y: -56}
+        - {x: 5.850342, y: -48}
+        - {x: 2.8503418, y: -40}
+    - name: ferro_entity_000_morrer_8
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 726
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.85034, y: -80}
+        - {x: 44.85034, y: -77}
+        - {x: 44.85034, y: -7}
+        - {x: -27.149658, y: 109}
+        - {x: -136.14966, y: 109}
+        - {x: -136.14966, y: 6}
+        - {x: -57.14966, y: -117}
+        - {x: 15.850342, y: -117}
+        - {x: 18.850342, y: -114}
+        - {x: 3.8503418, y: -52}
+        - {x: -2.1496582, y: -40}
+        - {x: 16.850342, y: -71}
+    - name: ferro_entity_000_morrer_9
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 726
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45.85034, y: -63}
+        - {x: 45.85034, y: -46}
+        - {x: -71.14966, y: 108}
+        - {x: -107.14966, y: 108}
+        - {x: -152.14966, y: 60}
+        - {x: -152.14966, y: 0}
+        - {x: -16.149658, y: -115}
+        - {x: 9.850342, y: -115}
+        - {x: 14.850342, y: -107}
+        - {x: 9.850342, y: -98}
+        - {x: 42.85034, y: -68}
+    - name: ferro_entity_000_morrer_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 484
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -115.14963, y: 98}
+        - {x: -163.14963, y: 59}
+        - {x: -163.14963, y: -9}
+        - {x: -158.14963, y: -20}
+        - {x: -10.149628, y: -116}
+        - {x: 25.850372, y: -116}
+        - {x: 42.850372, y: -94}
+        - {x: 42.850372, y: -9}
+        - {x: -39.149628, y: 98}
+    - name: ferro_entity_000_morrer_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 484
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -114.14963, y: 88}
+        - {x: -116.14963, y: 87}
+        - {x: -153.14963, y: 56}
+        - {x: -174.14963, y: 36}
+        - {x: -174.14963, y: -30}
+        - {x: -15.149628, y: -116}
+        - {x: 37.850372, y: -116}
+        - {x: 37.850372, y: -21}
+        - {x: -86.14963, y: 88}
+    - name: ferro_entity_000_morrer_12
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 484
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.850342, y: -52}
+        - {x: 25.850342, y: -44}
+        - {x: -103.14966, y: 77}
+        - {x: -135.14966, y: 77}
+        - {x: -185.14966, y: 28}
+        - {x: -185.14966, y: -24}
+        - {x: -13.149658, y: -114}
+        - {x: 17.850342, y: -114}
+        - {x: 19.850342, y: -110}
+        - {x: 13.850342, y: -94}
+        - {x: 31.850342, y: -64}
+    - name: ferro_entity_000_morrer_13
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 484
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.850342, y: -55}
+        - {x: 22.850342, y: -51}
+        - {x: -95.14966, y: 57}
+        - {x: -164.14966, y: 57}
+        - {x: -195.14966, y: 2}
+        - {x: -195.14966, y: -71}
+        - {x: -13.149658, y: -113}
+        - {x: 13.850342, y: -113}
+        - {x: 23.850342, y: -106}
+        - {x: 18.850342, y: -93}
+        - {x: 25.850342, y: -75}
+    - name: ferro_entity_000_morrer_14
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 484
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -206.14966, y: -92}
+        - {x: -116.14966, y: -112}
+        - {x: 20.850342, y: -112}
+        - {x: 20.850342, y: -60}
+        - {x: 16.850342, y: -49}
+        - {x: -44.14966, y: 35}
+        - {x: -187.14966, y: 35}
+        - {x: -206.14966, y: 26}
+    - name: ferro_entity_000_morrer_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 242
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123.14963, y: 8}
+        - {x: -129.14963, y: 2}
+        - {x: -133.14963, y: -3}
+        - {x: -130.14963, y: 13}
+        - {x: -133.14963, y: 14}
+        - {x: -138.14963, y: 14}
+        - {x: -216.14963, y: -27}
+        - {x: -216.14963, y: -84}
+        - {x: -196.14963, y: -103}
+        - {x: -189.14963, y: -98}
+        - {x: -187.14963, y: -96}
+        - {x: -151.14963, y: -105}
+        - {x: -67.14963, y: -111}
+        - {x: -1.1496277, y: -111}
+        - {x: 15.850372, y: -102}
+        - {x: 15.850372, y: -85}
+        - {x: 14.850372, y: -82}
+        - {x: 9.850372, y: -54}
+        - {x: -111.14963, y: 3}
+    - name: ferro_entity_000_morrer_16
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 242
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1496277, y: -83}
+        - {x: -10.149628, y: -89}
+        - {x: 7.8503723, y: -70}
+        - {x: 6.8503723, y: -63}
+        - {x: 2.8503723, y: -56}
+        - {x: -90.14963, y: -1}
+        - {x: -111.14963, y: -1}
+        - {x: -122.14963, y: -7}
+        - {x: -191.14963, y: -37}
+        - {x: -216.14963, y: -54}
+        - {x: -216.14963, y: -110}
+        - {x: 1.8503723, y: -110}
+        - {x: 14.850372, y: -99}
+        - {x: 14.850372, y: -86}
+        - {x: 6.8503723, y: -81}
+    - name: ferro_entity_000_morrer_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 242
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1496582, y: -83}
+        - {x: -10.149658, y: -89}
+        - {x: 7.850342, y: -70}
+        - {x: 6.850342, y: -63}
+        - {x: 2.8503418, y: -56}
+        - {x: -57.14966, y: -25}
+        - {x: -175.14966, y: -25}
+        - {x: -191.14966, y: -30}
+        - {x: -216.14966, y: -52}
+        - {x: -216.14966, y: -94}
+        - {x: -186.14966, y: -109}
+        - {x: -143.14966, y: -110}
+        - {x: -3.1496582, y: -110}
+        - {x: 14.850342, y: -99}
+        - {x: 14.850342, y: -86}
+        - {x: 6.850342, y: -81}
+    - name: ferro_entity_000_morrer_18
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 242
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1496582, y: -83}
+        - {x: -10.149658, y: -89}
+        - {x: 7.850342, y: -70}
+        - {x: 9.850342, y: -47}
+        - {x: -22.149658, y: -43}
+        - {x: -216.14966, y: -43}
+        - {x: -216.14966, y: -95}
+        - {x: -195.14966, y: -110}
+        - {x: -0.1496582, y: -110}
+        - {x: 14.850342, y: -99}
+        - {x: 14.850342, y: -86}
+        - {x: 6.850342, y: -81}
+    - name: ferro_entity_000_morrer_19
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 242
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1496582, y: -83}
+        - {x: -10.149658, y: -89}
+        - {x: 7.850342, y: -70}
+        - {x: 6.850342, y: -63}
+        - {x: 2.8503418, y: -56}
+        - {x: -20.149658, y: -43}
+        - {x: -216.14966, y: -43}
+        - {x: -216.14966, y: -107}
+        - {x: -188.14966, y: -110}
+        - {x: 10.850342, y: -110}
+        - {x: 14.850342, y: -99}
+        - {x: 14.850342, y: -86}
+        - {x: 6.850342, y: -81}
+    - name: ferro_entity_000_morrer_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 271
+        height: 242
+      alignment: 9
+      pivot: {x: 0.7976001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1496277, y: -83}
+        - {x: -10.149628, y: -89}
+        - {x: 7.8503723, y: -70}
+        - {x: 6.8503723, y: -63}
+        - {x: 2.8503723, y: -56}
+        - {x: -20.149628, y: -43}
+        - {x: -216.14963, y: -43}
+        - {x: -216.14963, y: -107}
+        - {x: -188.14963, y: -110}
+        - {x: 10.850372, y: -110}
+        - {x: 14.850372, y: -99}
+        - {x: 14.850372, y: -86}
+        - {x: 6.8503723, y: -81}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

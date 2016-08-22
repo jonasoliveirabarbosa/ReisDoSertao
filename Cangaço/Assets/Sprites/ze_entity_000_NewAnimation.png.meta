@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 38ee4d656bc9f0d42a5bb30f6a273e30
+timeCreated: 1462978632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ze_entity_000_NewAnimation_0
+    21300002: ze_entity_000_NewAnimation_1
+    21300004: ze_entity_000_NewAnimation_2
+    21300006: ze_entity_000_NewAnimation_3
+    21300008: ze_entity_000_NewAnimation_4
+    21300010: ze_entity_000_NewAnimation_5
+    21300012: ze_entity_000_NewAnimation_6
+    21300014: ze_entity_000_NewAnimation_7
+    21300016: ze_entity_000_NewAnimation_8
+    21300018: ze_entity_000_NewAnimation_9
+    21300020: ze_entity_000_NewAnimation_10
+    21300022: ze_entity_000_NewAnimation_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ze_entity_000_NewAnimation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.209152, y: 114.13428}
+        - {x: -41.209152, y: -115.86572}
+        - {x: 41.790848, y: -115.86572}
+        - {x: 41.790848, y: 107.13428}
+        - {x: 27.790848, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 464
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.790848, y: 114.13428}
+        - {x: -26.209152, y: 114.13428}
+        - {x: -40.209152, y: 63.134277}
+        - {x: -40.209152, y: -42.865723}
+        - {x: -30.209152, y: -113.86572}
+        - {x: 11.790848, y: -113.86572}
+        - {x: 40.790848, y: -48.865723}
+        - {x: 40.790848, y: 60.134277}
+        - {x: 31.790848, y: 94.13428}
+    - name: ze_entity_000_NewAnimation_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 464
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.209167, y: 114.13428}
+        - {x: -39.209167, y: 89.13428}
+        - {x: -39.209167, y: -113.86572}
+        - {x: -14.2091675, y: -115.86572}
+        - {x: -13.2091675, y: -106.86572}
+        - {x: -3.2091675, y: -115.86572}
+        - {x: 14.7908325, y: -115.86572}
+        - {x: 38.790833, y: -62.865723}
+        - {x: 38.790833, y: 73.13428}
+        - {x: 25.790833, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 464
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.209167, y: 114.13428}
+        - {x: -48.209167, y: 72.13428}
+        - {x: -48.209167, y: -110.86572}
+        - {x: -40.209167, y: -114.86572}
+        - {x: -32.209167, y: -114.86572}
+        - {x: -21.209167, y: -106.86572}
+        - {x: 3.7908325, y: -114.86572}
+        - {x: 23.790833, y: -114.86572}
+        - {x: 30.790833, y: -112.86572}
+        - {x: 35.790833, y: -93.86572}
+        - {x: 35.790833, y: 80.13428}
+        - {x: 26.790833, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.209167, y: 114.13428}
+        - {x: -44.209167, y: -114.86572}
+        - {x: 34.790833, y: -114.86572}
+        - {x: 34.790833, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.790848, y: 114.13428}
+        - {x: -40.209152, y: 114.13428}
+        - {x: -40.209152, y: -111.86572}
+        - {x: -32.209152, y: -108.86572}
+        - {x: -17.209152, y: -98.86572}
+        - {x: 9.790848, y: -115.86572}
+        - {x: 28.790848, y: -115.86572}
+        - {x: 33.790848, y: -93.86572}
+        - {x: 33.790848, y: 103.13428}
+    - name: ze_entity_000_NewAnimation_6
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 232
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.209152, y: 114.13428}
+        - {x: -39.209152, y: -110.86572}
+        - {x: -34.209152, y: -115.86572}
+        - {x: 23.790848, y: -115.86572}
+        - {x: 32.790848, y: -88.86572}
+        - {x: 32.790848, y: 89.13428}
+        - {x: 31.790848, y: 93.13428}
+        - {x: 16.790848, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 232
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.209167, y: 114.13428}
+        - {x: -39.209167, y: -116.86572}
+        - {x: 2.7908325, y: -116.86572}
+        - {x: 34.790833, y: -76.86572}
+        - {x: 34.790833, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_8
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 232
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.209167, y: 114.13428}
+        - {x: -40.209167, y: -115.86572}
+        - {x: -20.209167, y: -115.86572}
+        - {x: -15.2091675, y: -106.86572}
+        - {x: -15.2091675, y: -103.86572}
+        - {x: -16.209167, y: -99.86572}
+        - {x: -15.2091675, y: -105.86572}
+        - {x: -11.2091675, y: -115.86572}
+        - {x: 32.790833, y: -115.86572}
+        - {x: 35.790833, y: -95.86572}
+        - {x: 35.790833, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_9
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 232
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49.209167, y: 114.13428}
+        - {x: -49.209167, y: -117.86572}
+        - {x: 37.790833, y: -117.86572}
+        - {x: 37.790833, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.209152, y: 114.13428}
+        - {x: -31.209152, y: 103.13428}
+        - {x: -45.209152, y: 19.134277}
+        - {x: -45.209152, y: -116.86572}
+        - {x: -43.209152, y: -117.86572}
+        - {x: 16.790848, y: -117.86572}
+        - {x: 18.790848, y: -115.86572}
+        - {x: 39.790848, y: -61.865723}
+        - {x: 39.790848, y: 71.13428}
+        - {x: 27.790848, y: 114.13428}
+    - name: ze_entity_000_NewAnimation_11
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 232
+      alignment: 9
+      pivot: {x: 0.5820915, y: 0.5080419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.209152, y: 114.13428}
+        - {x: -41.209152, y: -116.86572}
+        - {x: 19.790848, y: -116.86572}
+        - {x: 41.790848, y: -65.86572}
+        - {x: 41.790848, y: 73.13428}
+        - {x: 28.790848, y: 114.13428}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
