@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: a6011ece7f5420d4cbf9172cc7fbef28
+timeCreated: 1463008037
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gordinhoAtirar_0
+    21300002: gordinhoAtirar_1
+    21300004: gordinhoAtirar_2
+    21300006: gordinhoAtirar_3
+    21300008: gordinhoAtirar_4
+    21300010: gordinhoAtirar_5
+    21300012: gordinhoAtirar_6
+    21300014: gordinhoAtirar_7
+    21300016: gordinhoAtirar_8
+    21300018: gordinhoAtirar_9
+    21300020: gordinhoAtirar_10
+    21300022: gordinhoAtirar_11
+    21300024: gordinhoAtirar_12
+    21300026: gordinhoAtirar_13
+    21300028: gordinhoAtirar_14
+    21300030: gordinhoAtirar_15
+    21300032: gordinhoAtirar_16
+    21300034: gordinhoAtirar_17
+    21300036: gordinhoAtirar_18
+    21300038: gordinhoAtirar_19
+    21300040: gordinhoAtirar_20
+    21300042: gordinhoAtirar_21
+    21300044: gordinhoAtirar_22
+    21300046: gordinhoAtirar_23
+    21300048: gordinhoAtirar_24
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gordinhoAtirar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50.492775, y: 149}
+        - {x: -27.507225, y: 149}
+        - {x: -41.507225, y: 134}
+        - {x: -41.507225, y: 8}
+        - {x: -31.507225, y: -148}
+        - {x: -29.507225, y: -149}
+        - {x: 46.492775, y: -149}
+        - {x: 109.492775, y: 14}
+        - {x: 109.492775, y: 98}
+    - name: gordinhoAtirar_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1192
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.49277, y: 149}
+        - {x: -37.507233, y: 149}
+        - {x: -41.507233, y: 146}
+        - {x: -41.507233, y: 33}
+        - {x: -32.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 108.49277, y: 9}
+        - {x: 108.49277, y: 128}
+    - name: gordinhoAtirar_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1192
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.492767, y: 149}
+        - {x: -41.507233, y: 149}
+        - {x: -41.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 105.49277, y: 99}
+        - {x: 105.49277, y: 107}
+        - {x: 100.49277, y: 109}
+    - name: gordinhoAtirar_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1192
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.492767, y: 149}
+        - {x: -34.507233, y: 149}
+        - {x: -41.507233, y: 147}
+        - {x: -41.507233, y: -129}
+        - {x: -40.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 102.49277, y: 47}
+        - {x: 102.49277, y: 119}
+    - name: gordinhoAtirar_4
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1192
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.4928, y: 103}
+        - {x: 97.4928, y: 126}
+        - {x: 90.4928, y: 127}
+        - {x: 57.492798, y: 110}
+        - {x: 18.492798, y: 149}
+        - {x: -26.507202, y: 149}
+        - {x: -41.507202, y: 143}
+        - {x: -41.507202, y: 29}
+        - {x: -34.507202, y: -125}
+        - {x: -20.507202, y: -149}
+        - {x: 29.492798, y: -149}
+        - {x: 37.492798, y: -145}
+        - {x: 36.492798, y: -133}
+    - name: gordinhoAtirar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92.492775, y: 149}
+        - {x: -41.507225, y: 149}
+        - {x: -41.507225, y: -59}
+        - {x: -31.507225, y: -124}
+        - {x: -23.507225, y: -144}
+        - {x: -20.507225, y: -149}
+        - {x: 37.492775, y: -149}
+        - {x: 42.492775, y: -148}
+        - {x: 92.492775, y: 48}
+    - name: gordinhoAtirar_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 894
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.49277, y: 133}
+        - {x: 86.49277, y: 135}
+        - {x: 32.492767, y: 149}
+        - {x: -41.507233, y: 149}
+        - {x: -41.507233, y: -149}
+        - {x: 35.492767, y: -149}
+        - {x: 41.492767, y: -148}
+        - {x: 93.49277, y: 102}
+    - name: gordinhoAtirar_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 894
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.507233, y: 149}
+        - {x: -41.507233, y: 133}
+        - {x: -41.507233, y: -47}
+        - {x: -36.507233, y: -126}
+        - {x: -20.507233, y: -149}
+        - {x: 54.492767, y: -149}
+        - {x: 95.49277, y: 63}
+        - {x: 95.49277, y: 149}
+    - name: gordinhoAtirar_8
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 894
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.507233, y: 149}
+        - {x: -41.507233, y: -113}
+        - {x: -27.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 96.49277, y: -30}
+        - {x: 96.49277, y: 149}
+    - name: gordinhoAtirar_9
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 894
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.4928, y: 103}
+        - {x: 97.4928, y: 126}
+        - {x: 90.4928, y: 127}
+        - {x: 57.492798, y: 110}
+        - {x: 18.492798, y: 149}
+        - {x: -26.507202, y: 149}
+        - {x: -41.507202, y: 143}
+        - {x: -41.507202, y: 29}
+        - {x: -34.507202, y: -125}
+        - {x: -20.507202, y: -149}
+        - {x: 29.492798, y: -149}
+        - {x: 37.492798, y: -145}
+        - {x: 36.492798, y: -133}
+    - name: gordinhoAtirar_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82.492775, y: 149}
+        - {x: -27.507225, y: 149}
+        - {x: -41.507225, y: 143}
+        - {x: -41.507225, y: 27}
+        - {x: -32.507225, y: -149}
+        - {x: 46.492775, y: -149}
+        - {x: 99.492775, y: 29}
+        - {x: 99.492775, y: 146}
+    - name: gordinhoAtirar_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 596
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100.49277, y: 33}
+        - {x: 100.49277, y: 149}
+        - {x: -41.507233, y: 149}
+        - {x: -41.507233, y: -36}
+        - {x: -31.507233, y: -124}
+        - {x: -23.507233, y: -144}
+        - {x: -20.507233, y: -149}
+        - {x: 29.492767, y: -149}
+        - {x: 37.492767, y: -145}
+        - {x: 36.492767, y: -133}
+    - name: gordinhoAtirar_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 596
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98.49277, y: 120}
+        - {x: 70.49277, y: 113}
+        - {x: 22.492767, y: 149}
+        - {x: -26.507233, y: 149}
+        - {x: -41.507233, y: 143}
+        - {x: -41.507233, y: 36}
+        - {x: -32.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 101.49277, y: 102}
+        - {x: 101.49277, y: 116}
+    - name: gordinhoAtirar_13
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 596
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.492767, y: 149}
+        - {x: -34.507233, y: 149}
+        - {x: -41.507233, y: 147}
+        - {x: -41.507233, y: -129}
+        - {x: -40.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 102.49277, y: 47}
+        - {x: 102.49277, y: 119}
+    - name: gordinhoAtirar_14
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 596
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90.4928, y: 149}
+        - {x: -37.507202, y: 149}
+        - {x: -41.507202, y: 145}
+        - {x: -41.507202, y: 26}
+        - {x: -32.507202, y: -149}
+        - {x: 46.492798, y: -149}
+        - {x: 103.4928, y: 16}
+        - {x: 103.4928, y: 142}
+    - name: gordinhoAtirar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.507225, y: 149}
+        - {x: -41.507225, y: -51}
+        - {x: -28.507225, y: -146}
+        - {x: -24.507225, y: -149}
+        - {x: 46.492775, y: -149}
+        - {x: 104.492775, y: 99}
+        - {x: 104.492775, y: 120}
+        - {x: 36.492775, y: 149}
+    - name: gordinhoAtirar_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 298
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.49277, y: 149}
+        - {x: -41.507233, y: 149}
+        - {x: -41.507233, y: -97}
+        - {x: -31.507233, y: -148}
+        - {x: -29.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 105.49277, y: 54}
+        - {x: 105.49277, y: 117}
+    - name: gordinhoAtirar_17
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 298
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.492767, y: 149}
+        - {x: -41.507233, y: 149}
+        - {x: -41.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 105.49277, y: 99}
+        - {x: 105.49277, y: 107}
+        - {x: 100.49277, y: 109}
+    - name: gordinhoAtirar_18
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 298
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.49277, y: 149}
+        - {x: -41.507233, y: 149}
+        - {x: -41.507233, y: -104}
+        - {x: -38.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 106.49277, y: -6}
+        - {x: 106.49277, y: 133}
+    - name: gordinhoAtirar_19
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 298
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.492798, y: 149}
+        - {x: -40.507202, y: 149}
+        - {x: -41.507202, y: 145}
+        - {x: -41.507202, y: -91}
+        - {x: -31.507202, y: -148}
+        - {x: -29.507202, y: -149}
+        - {x: 46.492798, y: -149}
+        - {x: 107.4928, y: 59}
+        - {x: 107.4928, y: 116}
+    - name: gordinhoAtirar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105.492775, y: 102}
+        - {x: 68.492775, y: 97}
+        - {x: 54.492775, y: 87}
+        - {x: 28.492775, y: 149}
+        - {x: -41.507225, y: 149}
+        - {x: -41.507225, y: -127}
+        - {x: -32.507225, y: -149}
+        - {x: 46.492775, y: -149}
+        - {x: 107.492775, y: 61}
+        - {x: 107.492775, y: 102}
+    - name: gordinhoAtirar_21
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 0
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72.49277, y: 149}
+        - {x: -37.507233, y: 149}
+        - {x: -41.507233, y: 146}
+        - {x: -41.507233, y: 33}
+        - {x: -32.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 108.49277, y: 9}
+        - {x: 108.49277, y: 128}
+    - name: gordinhoAtirar_22
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 0
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.492767, y: 149}
+        - {x: -32.507233, y: 149}
+        - {x: -40.507233, y: 137}
+        - {x: -41.507233, y: 135}
+        - {x: -41.507233, y: 26}
+        - {x: -34.507233, y: -149}
+        - {x: 46.492767, y: -149}
+        - {x: 108.49277, y: 60}
+        - {x: 108.49277, y: 110}
+    - name: gordinhoAtirar_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70.49277, y: 91}
+        - {x: 56.492767, y: 84}
+        - {x: 34.492767, y: 127}
+        - {x: 15.492767, y: 149}
+        - {x: -25.507233, y: 149}
+        - {x: -41.507233, y: 143}
+        - {x: -41.507233, y: 115}
+        - {x: -40.507233, y: 115}
+        - {x: -41.507233, y: 96}
+        - {x: -41.507233, y: -45}
+        - {x: -30.507233, y: -148}
+        - {x: -27.507233, y: -149}
+        - {x: 45.492767, y: -149}
+        - {x: 109.49277, y: 61}
+        - {x: 109.49277, y: 95}
+        - {x: 106.49277, y: 95}
+    - name: gordinhoAtirar_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 152
+        height: 298
+      alignment: 9
+      pivot: {x: 0.2796528, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109.4928, y: 129}
+        - {x: 46.492798, y: 149}
+        - {x: -38.507202, y: 149}
+        - {x: -41.507202, y: 148}
+        - {x: -41.507202, y: -57}
+        - {x: -36.507202, y: -149}
+        - {x: 29.492798, y: -149}
+        - {x: 37.492798, y: -145}
+        - {x: 109.4928, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: da0be80d586652541a9a0489adc96a09
+timeCreated: 1462763303
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sold_entity_000_atirar_0
+    21300002: sold_entity_000_atirar_1
+    21300004: sold_entity_000_atirar_2
+    21300006: sold_entity_000_atirar_3
+    21300008: sold_entity_000_atirar_4
+    21300010: sold_entity_000_atirar_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sold_entity_000_atirar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 467
+        height: 389
+      alignment: 9
+      pivot: {x: 0.7281129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.61621, y: -137.5}
+        - {x: 111.61621, y: 61.5}
+        - {x: 111.61621, y: 128.5}
+        - {x: 60.61621, y: 170.5}
+        - {x: -41.38379, y: 170.5}
+        - {x: -41.38379, y: -160.5}
+        - {x: -24.38379, y: -165.5}
+        - {x: -7.383789, y: -165.5}
+        - {x: -3.383789, y: -164.5}
+        - {x: -2.383789, y: -148.5}
+        - {x: 13.616211, y: -153.5}
+        - {x: 23.61621, y: -149.5}
+    - name: sold_entity_000_atirar_1
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 389
+        width: 467
+        height: 389
+      alignment: 9
+      pivot: {x: 0.7281129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97.99155, y: 115.5}
+        - {x: 97.99155, y: 133.5}
+        - {x: 91.99155, y: 137.5}
+        - {x: 61.991547, y: 126.5}
+        - {x: 36.991547, y: 170.5}
+        - {x: -39.008453, y: 170.5}
+        - {x: -41.008453, y: 163.5}
+        - {x: -41.008453, y: -118.5}
+        - {x: -38.008453, y: -142.5}
+        - {x: -20.008453, y: -165.5}
+        - {x: -8.008453, y: -165.5}
+        - {x: -2.0084534, y: -162.5}
+        - {x: -5.0084534, y: -142.5}
+        - {x: 18.991547, y: -155.5}
+        - {x: 30.991547, y: -154.5}
+    - name: sold_entity_000_atirar_2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 389
+        width: 467
+        height: 389
+      alignment: 9
+      pivot: {x: 0.7281129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57.866882, y: 116.5}
+        - {x: 40.866882, y: 159.5}
+        - {x: 35.866882, y: 170.5}
+        - {x: 10.866882, y: 170.5}
+        - {x: -31.133118, y: 166.5}
+        - {x: -40.133118, y: 146.5}
+        - {x: -40.133118, y: -124.5}
+        - {x: -33.133118, y: -165.5}
+        - {x: 9.866882, y: -165.5}
+        - {x: 37.866882, y: -139.5}
+        - {x: 98.86688, y: 114.5}
+        - {x: 98.86688, y: 147.5}
+        - {x: 61.866882, y: 121.5}
+    - name: sold_entity_000_atirar_3
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 389
+        width: 467
+        height: 389
+      alignment: 9
+      pivot: {x: 0.7281129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102.74219, y: 101.5}
+        - {x: 102.74219, y: 129.5}
+        - {x: 77.74219, y: 128.5}
+        - {x: 38.742188, y: 170.5}
+        - {x: 19.742188, y: 170.5}
+        - {x: -36.257812, y: 154.5}
+        - {x: -41.257812, y: 145.5}
+        - {x: -41.257812, y: -120.5}
+        - {x: -33.257812, y: -165.5}
+        - {x: -3.2578125, y: -165.5}
+        - {x: -2.2578125, y: -163.5}
+        - {x: -4.2578125, y: -147.5}
+        - {x: 10.7421875, y: -153.5}
+        - {x: 29.742188, y: -151.5}
+    - name: sold_entity_000_atirar_4
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 389
+        width: 467
+        height: 389
+      alignment: 9
+      pivot: {x: 0.7281129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35.117554, y: -152.5}
+        - {x: 108.11755, y: 30.5}
+        - {x: 108.11755, y: 138.5}
+        - {x: 60.117554, y: 170.5}
+        - {x: -38.882446, y: 170.5}
+        - {x: -38.882446, y: -165.5}
+        - {x: -5.8824463, y: -165.5}
+        - {x: 0.11755371, y: -163.5}
+        - {x: -1.8824463, y: -149.5}
+        - {x: -9.882446, y: -131.5}
+        - {x: 15.117554, y: -156.5}
+    - name: sold_entity_000_atirar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 467
+        height: 389
+      alignment: 9
+      pivot: {x: 0.7281129, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93.61621, y: 170.5}
+        - {x: -41.38379, y: 170.5}
+        - {x: -41.38379, y: -160.5}
+        - {x: -24.38379, y: -165.5}
+        - {x: -7.383789, y: -165.5}
+        - {x: -3.383789, y: -164.5}
+        - {x: -3.383789, y: -165.5}
+        - {x: 25.61621, y: -165.5}
+        - {x: 109.61621, y: -4.5}
+        - {x: 109.61621, y: 163.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

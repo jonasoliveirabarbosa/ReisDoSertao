@@ -1,0 +1,536 @@
+fileFormatVersion: 2
+guid: 1ecaff3dcd9a12240ac12f6e80e65d36
+timeCreated: 1463070341
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: gordandar_0
+    21300002: gordandar_1
+    21300004: gordandar_2
+    21300006: gordandar_3
+    21300008: gordandar_4
+    21300010: gordandar_5
+    21300012: gordandar_6
+    21300014: gordandar_7
+    21300016: gordandar_8
+    21300018: gordandar_9
+    21300020: gordandar_10
+    21300022: gordandar_11
+    21300024: gordandar_12
+    21300026: gordandar_13
+    21300028: gordandar_14
+    21300030: gordandar_15
+    21300032: gordandar_16
+    21300034: gordandar_17
+    21300036: gordandar_18
+    21300038: gordandar_19
+    21300040: gordandar_20
+    21300042: gordandar_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: gordandar_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1192
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -60, y: 157.93994}
+        - {x: -70, y: 126.93994}
+        - {x: -70, y: -70.06006}
+        - {x: -40, y: -132.06006}
+        - {x: -20, y: -140.06006}
+        - {x: 3, y: -140.06006}
+        - {x: 11, y: -137.06006}
+        - {x: 63, y: -70.06006}
+        - {x: 63, y: 66.93994}
+        - {x: 25, y: 157.93994}
+    - name: gordandar_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1192
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40, y: 157.93994}
+        - {x: -59, y: 135.93994}
+        - {x: -52, y: 117.93994}
+        - {x: -69, y: 39.93994}
+        - {x: -69, y: 29.939941}
+        - {x: -63, y: 20.939941}
+        - {x: -53, y: 7.9399414}
+        - {x: -49, y: 3.9399414}
+        - {x: -34, y: -115.06006}
+        - {x: -29, y: -138.06006}
+        - {x: -23, y: -140.06006}
+        - {x: 0, y: -140.06006}
+        - {x: 61, y: -81.06006}
+        - {x: 61, y: 91.93994}
+        - {x: 32, y: 157.93994}
+    - name: gordandar_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1192
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 128.93994}
+        - {x: 5, y: 157.93994}
+        - {x: -60, y: 157.93994}
+        - {x: -68, y: 154.93994}
+        - {x: -68, y: -39.06006}
+        - {x: -56, y: -140.06006}
+        - {x: 7, y: -140.06006}
+        - {x: 38, y: -83.06006}
+        - {x: 59, y: -25.060059}
+        - {x: 59, y: 27.939941}
+    - name: gordandar_3
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1192
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: -26.060059}
+        - {x: 58, y: -29.060059}
+        - {x: 58, y: 111.93994}
+        - {x: 54, y: 145.93994}
+        - {x: -2, y: 157.93994}
+        - {x: -55, y: 157.93994}
+        - {x: -67, y: 153.93994}
+        - {x: -67, y: -123.06006}
+        - {x: -66, y: -140.06006}
+        - {x: 19, y: -140.06006}
+        - {x: 36, y: -79.06006}
+        - {x: 27, y: -17.060059}
+        - {x: 26, y: -12.060059}
+    - name: gordandar_4
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1192
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 127.93994}
+        - {x: 10, y: 150.93994}
+        - {x: -6, y: 157.93994}
+        - {x: -52, y: 157.93994}
+        - {x: -66, y: 146.93994}
+        - {x: -66, y: -131.06006}
+        - {x: -54, y: -140.06006}
+        - {x: 31, y: -140.06006}
+        - {x: 34, y: -139.06006}
+        - {x: 56, y: -62.06006}
+        - {x: 56, y: 11.939941}
+    - name: gordandar_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 894
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 157.93994}
+        - {x: -65, y: 145.93994}
+        - {x: -65, y: -138.06006}
+        - {x: 51, y: -138.06006}
+        - {x: 54, y: -129.06006}
+        - {x: 54, y: 89.93994}
+        - {x: 31, y: 157.93994}
+    - name: gordandar_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 894
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 82.93994}
+        - {x: 24, y: 127.93994}
+        - {x: 10, y: 150.93994}
+        - {x: -6, y: 157.93994}
+        - {x: -41, y: 157.93994}
+        - {x: -66, y: 147.93994}
+        - {x: -66, y: -137.06006}
+        - {x: -65, y: -138.06006}
+        - {x: -42, y: -138.06006}
+        - {x: -41, y: -137.06006}
+        - {x: -14, y: -83.06006}
+        - {x: -9, y: -67.06006}
+        - {x: 2, y: -120.06006}
+        - {x: 11, y: -128.06006}
+        - {x: 24, y: -138.06006}
+        - {x: 35, y: -138.06006}
+        - {x: 38, y: -137.06006}
+        - {x: 38, y: -122.06006}
+        - {x: 55, y: -55.06006}
+        - {x: 55, y: 5.9399414}
+    - name: gordandar_7
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 894
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: 157.93994}
+        - {x: -67, y: -138.06006}
+        - {x: 56, y: -138.06006}
+        - {x: 56, y: 157.93994}
+    - name: gordandar_8
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 894
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67, y: -139.06006}
+        - {x: 54, y: -139.06006}
+        - {x: 57, y: -130.06006}
+        - {x: 57, y: 116.93994}
+        - {x: 47, y: 138.93994}
+        - {x: 4, y: 157.93994}
+        - {x: -57, y: 157.93994}
+        - {x: -67, y: 149.93994}
+    - name: gordandar_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 894
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 157.93994}
+        - {x: -68, y: -123.06006}
+        - {x: 4, y: -139.06006}
+        - {x: 29, y: -139.06006}
+        - {x: 36, y: -136.06006}
+        - {x: 58, y: -75.06006}
+        - {x: 58, y: 61.93994}
+        - {x: 15, y: 157.93994}
+    - name: gordandar_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 596
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 128.94}
+        - {x: 5, y: 157.94}
+        - {x: -68, y: 157.94}
+        - {x: -68, y: -139.06}
+        - {x: 34, y: -139.06}
+        - {x: 59, y: -52.059998}
+        - {x: 59, y: -0.05999756}
+        - {x: 29, y: 77.94}
+    - name: gordandar_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 596
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: 157.94}
+        - {x: -68, y: -140.06}
+        - {x: 26, y: -140.06}
+        - {x: 62, y: -83.06}
+        - {x: 62, y: 59.940002}
+        - {x: 17, y: 157.94}
+    - name: gordandar_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 596
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68, y: -60.059998}
+        - {x: -39, y: -123.06}
+        - {x: -29, y: -138.06}
+        - {x: 29, y: -138.06}
+        - {x: 65, y: -120.06}
+        - {x: 65, y: 157.94}
+        - {x: -62, y: 157.94}
+        - {x: -68, y: 145.94}
+    - name: gordandar_13
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 596
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 157.94}
+        - {x: -65, y: 157.94}
+        - {x: -69, y: 156.94}
+        - {x: -69, y: -114.06}
+        - {x: -67, y: -134.06}
+        - {x: 2, y: -134.06}
+        - {x: 68, y: -36.059998}
+        - {x: 68, y: 12.940002}
+        - {x: 14, y: 153.94}
+    - name: gordandar_14
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 596
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 157.94}
+        - {x: -64, y: 157.94}
+        - {x: -69, y: 154.94}
+        - {x: -69, y: -136.06}
+        - {x: -39, y: -136.06}
+        - {x: -35, y: -133.06}
+        - {x: -27, y: -124.06}
+        - {x: -13, y: -136.06}
+        - {x: 20, y: -136.06}
+        - {x: 71, y: -54.059998}
+        - {x: 71, y: 69.94}
+        - {x: 47, y: 138.94}
+    - name: gordandar_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 298
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: 157.94}
+        - {x: -69, y: -132.06}
+        - {x: -49, y: -130.06}
+        - {x: -33, y: -135.06}
+        - {x: 39, y: -135.06}
+        - {x: 73, y: -83.06}
+        - {x: 73, y: 65.94}
+        - {x: 21, y: 157.94}
+    - name: gordandar_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 298
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -69, y: -123.06}
+        - {x: -53, y: -137.06}
+        - {x: 43, y: -137.06}
+        - {x: 73, y: -88.06}
+        - {x: 73, y: 61.940002}
+        - {x: 18, y: 157.94}
+        - {x: -42, y: 157.94}
+        - {x: -69, y: 148.94}
+    - name: gordandar_17
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 298
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 157.94}
+        - {x: -35, y: 157.94}
+        - {x: -57, y: 135.94}
+        - {x: -69, y: 97.94}
+        - {x: -69, y: -126.06}
+        - {x: -40, y: -138.06}
+        - {x: 13, y: -138.06}
+        - {x: 14, y: -137.06}
+        - {x: 14, y: -124.06}
+        - {x: 73, y: -36.059998}
+        - {x: 73, y: 15.940002}
+    - name: gordandar_18
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 298
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 154.94}
+        - {x: 5, y: 157.94}
+        - {x: -69, y: 157.94}
+        - {x: -69, y: -130.06}
+        - {x: -44, y: -139.06}
+        - {x: 5, y: -139.06}
+        - {x: 11, y: -135.06}
+        - {x: 73, y: -19.059998}
+        - {x: 73, y: 0.94000244}
+        - {x: 70, y: 10.940002}
+    - name: gordandar_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 298
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 24.940002}
+        - {x: 18, y: 156.94}
+        - {x: 16, y: 157.94}
+        - {x: -69, y: 157.94}
+        - {x: -69, y: -132.06}
+        - {x: -43, y: -140.06}
+        - {x: 3, y: -140.06}
+        - {x: 7, y: -138.06}
+        - {x: 4, y: -124.06}
+        - {x: 21, y: -85.06}
+        - {x: 67, y: -36.059998}
+    - name: gordandar_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 157.94}
+        - {x: -36, y: 157.94}
+        - {x: -69, y: 124.94}
+        - {x: -69, y: -98.06}
+        - {x: -55, y: -134.06}
+        - {x: -36, y: -140.06}
+        - {x: 16, y: -140.06}
+        - {x: 62, y: -75.06}
+        - {x: 62, y: 85.94}
+        - {x: 46, y: 137.94}
+    - name: gordandar_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 146
+        height: 298
+      alignment: 9
+      pivot: {x: 0.5, y: 0.47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 157.94}
+        - {x: -69, y: 157.94}
+        - {x: -69, y: -129.06}
+        - {x: -48, y: -140.06}
+        - {x: 8, y: -140.06}
+        - {x: 14, y: -135.06}
+        - {x: 62, y: -71.06}
+        - {x: 62, y: 60.940002}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
